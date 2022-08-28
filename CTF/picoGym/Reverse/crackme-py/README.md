@@ -14,7 +14,9 @@
 - ## Découverte du challenge
   
   On commence par lancer le programme:
+  
   ![challenge](image/../images/1.png)
+  
   2 nombres nous sont demandés et le programme nous renvoie le plus élevé des deux, rien de plus à noter.
 
 -----
